@@ -16,7 +16,7 @@ This is a static HTML/CSS landing page for **Pineapple Island**, highlighting:
 ---
 ## 🖼️ Demo
 
-- 🔗 
+- 🔗 https://iceland-page.netlify.app/
 ---
 ## 🛠️ Tech Stack
 
