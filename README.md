@@ -1,6 +1,6 @@
 # Pineapple Island - Landing Page
 
-Welcome to the **Pineapple Island** landing page – a beautifully designed, responsive website that introduces a modern, nature-inspired community ideal for GenZ and Millennials. This page showcases all key features, offers, and galleries with elegant visuals and smooth structure.
+Welcome to the **Pineapple Island** landing page – a beautifully designed, responsive static website that introduces a modern, nature-inspired community ideal for GenZ and Millennials. This page showcases all key features, offers, and galleries with elegant visuals and smooth structure.
 
 ---
 
